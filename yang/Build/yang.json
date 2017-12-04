@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "yang.data.unityweb",
+"asmCodeUrl": "yang.asm.code.unityweb",
+"asmMemoryUrl": "yang.asm.memory.unityweb",
+"asmFrameworkUrl": "yang.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
